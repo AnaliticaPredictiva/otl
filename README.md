@@ -18,11 +18,12 @@ The program adapts to N vertex and edges, and its result is optimal because it d
 # Information on how to compile and use the program:
 
 The compilation was performed with the following steps:
-•	The Declaration of objects, attributes and variables to be used
-•	Data cleanup
-•	Conditions for each relationship
-•	Generation of final lists
-•	To print
+
+1. The Declaration of objects, attributes and variables to be used
+2. Data cleanup
+3. Conditions for each relationship
+4. Generation of final lists
+5. To print
 
 #Operating system version used:
 Windows 10.
