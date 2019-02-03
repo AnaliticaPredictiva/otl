@@ -25,7 +25,7 @@ The compilation was performed with the following steps:
 4. Generation of final lists
 5. To print
 
-#Operating system version used:
+# Operating system version used:
 Windows 10.
 
 # Programming language and compiler version used:
